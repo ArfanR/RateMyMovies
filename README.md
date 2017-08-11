@@ -1,2 +1,2 @@
 # RateMyMovies
-Comment, track and rate your favorite movies.
+Android application to comment, track and rate your favorite movies.
