@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="split_array">
+        <item>No</item>
+        <item>2 ways</item>
+        <item>3 ways</item>
+        <item>4 ways</item>
+    </string-array>
+
+    <integer-array name="split_values_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3 </item>
+        <item>4 </item>
+    </integer-array>
+
+    <string-array name="currencies">
+        <item>@string/usd</item>
+        <item>@string/yuan</item>
+        <item>@string/euro</item>
+    </string-array>
+</resources>
