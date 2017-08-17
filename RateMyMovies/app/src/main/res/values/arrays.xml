@@ -1,22 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="split_array">
-        <item>No</item>
-        <item>2 ways</item>
-        <item>3 ways</item>
-        <item>4 ways</item>
+    <string-array name="genres">
+        <item>Action</item>
+        <item>Animation</item>
+        <item>Comedy</item>
+        <item>Drama</item>
+        <item>Fantasy</item>
+        <item>Horror</item>
+        <item>Romance</item>
+        <item>Sci-Fi</item>
     </string-array>
 
-    <integer-array name="split_values_array">
-        <item>1</item>
-        <item>2</item>
-        <item>3 </item>
-        <item>4 </item>
-    </integer-array>
-
-    <string-array name="currencies">
-        <item>@string/usd</item>
-        <item>@string/yuan</item>
-        <item>@string/euro</item>
+    <string-array name="images">
+        <item>http://tinyurl.com/k69jgy8</item>
+        <item>http://tinyurl.com/k2eunh5</item>
+        <item>http://tinyurl.com/lstytnc</item>
+        <item>http://tinyurl.com/mum5px7</item>
+        <item>http://tinyurl.com/mo9oblx</item>
+        <item>http://tinyurl.com/lyf3yas</item>
+        <item>http://tinyurl.com/l3s3rn6</item>
+        <item>http://tinyurl.com/kjopjl8</item>
     </string-array>
 </resources>

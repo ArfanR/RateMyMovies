@@ -1,29 +1,15 @@
 <resources>
-    <string name="app_name">A8</string>
-    
-    <string name="billAmount">Bill Amount</string>
-    <string name="percent">Percent</string>
-    <string name="tip">Tip</string>
-    <string name="total">Total</string>
-    <string name="splitBill">Split Bill?</string>
-    <string name="perPerson">Per Person</string>
-    <string name="label_tip_summary">Tip Summary</string>
+    <string name="app_name">A9</string>
 
-    <string name="text_centimeters">centimeters</string>
-    <string name="text_meters">meters</string>
-    <string name="text_feet">feet</string>
-    <string name="text_miles">miles</string>
-    <string name="text_kilometers">kilometers</string>
-    <string name="text_from">From:</string>
-    <string name="text_to">To:</string>
-    <string name="text_convert">CONVERT</string>
-    <string name="text_result">Result:</string>
+    <string name="label_add">Add</string>
+    <string name="label_title">Movie Title</string>
+    <string name="label_description">Description</string>
+    <string name="label_genre">Genre</string>
+    <string name="label_url">URL</string>
+    <string name="label_save">Save</string>
+    <string name="label_comment">Comment</string>
+    <string name="label_find_out_more">FIND OUT MORE</string>
+    <string name="label_user">Username</string>
+    <string name="content_description">""</string>
 
-    <string name="usd">USD</string>
-    <string name="yuan">Yuan</string>
-    <string name="euro">Euro</string>
-
-    <string name="button_tip">TIP CALC</string>
-    <string name="button_units">UNIT CONV</string>
-    <string name="button_money">MONEY EXCH</string>
 </resources>
